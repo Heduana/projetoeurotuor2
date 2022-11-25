@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Página Principal</title>
+</head>
+<body>
+	<header>
+		<tr>
+			<td>
+				<a href="">INICIAL</a> |
+				<a href="">ROTEIROS</a> |
+				<a href="">GALERIAS</a> |
+				<a href="">PONTOS TURISTICOS</a> |
+				<a href="">FALE CONOSCO</a>
+			</td>
+		</tr>
+		<br>
+		<br>
+		<tr>
+			<td>
+				<img src="img\capa2.jpg" height="536" width="1340">
+			</td>
+		</tr>
+	</header>
+	<br>
+	<main>
+		<article>
+		<h1>Turismo em Recife: viagem e experiências que vão além de belas praias</h1>
+        <p>Recife é conhecida em todo o mundo pela beleza de seu litoral com belas praias, mas esse paraíso para o turismo no Nordeste tem muito mais a oferecer: experiências que vão ficar para sempre na sua memória e em suas melhores fotos.</p>
+        <p>Procurando lugares para viajar no brasil? Visite o Marco Zero. Encontre abaixo experiências segmentadas para você ter momentos únicos em nosso estado! Experiências de turismo em sua viagem ao Recife.</p>
+        </article>
+        <article>
+        	<h2>O que fazer no Marco Zero em Recife</h2>
+        	<p>
+        		A Praça Barão do Rio Branco, mais conhecida como Marco Zero, é um dos lugares mais simbólicos de Recife porque  remete à fundação da cidade e aos tempos gloriosos da época colonial quando era um dos principais centros econômicos do país.
+        	</p>
+        	<p>
+        		Mas o que significa Marco Zero?  Quais são as principais atrações? Vale a pena?
+        	</p>
+        </article>
+        <article>
+        	<h2>Sobre o Marco Zero</h2>
+        	<p>O Marco Zero é o ponto zero de todas as medidas oficiais das distâncias rodoviárias de Pernambuco, assinalado por uma placa colocada no chão da Praça Barão do Rio Branco, no Bairro do Recife.</p>
+        	<p>Esse símbolo, no entanto, é relativamente recente. Na década de 90, o bairro passou por um processo de revitalização que modificou o desenho original da praça, transformando-a em um amplo largo. O antigo piso foi substituído por  um grande painel em forma de rosa dos ventos realizado por Cícero Dias, artista pernambucano, e inspirado na tela Eu vi o mundo… Ele começava no Recife, de 1930, do mesmo artista.</p>
+        	<p>Também foi alterada a posição do Marco Zero, o obelisco colocado no centro praça em 1938, pelo Automóvel Clube de Pernambuco, foi deslocado em outro ponto da praça, juntamente como a estátua do Barão do Rio Branco.
+        	</p>
+        </article>
+	</main>
+	<br>
+	<footer>
+		<h4 align="center">Todos os direitos reservados</h4>
+	</footer>
+</body>
+</html>
